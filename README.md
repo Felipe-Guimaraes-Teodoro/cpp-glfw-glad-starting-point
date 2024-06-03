@@ -1,4 +1,4 @@
-# Running the build file
+# Building from source
 
 On the root directory, run:
 ```shell 
